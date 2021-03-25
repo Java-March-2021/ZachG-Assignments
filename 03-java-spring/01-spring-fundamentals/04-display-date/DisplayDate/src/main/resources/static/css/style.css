@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.dashboard{
+	background-color: green;
+	border-radius: 20px;
+	display: inline;
+}
+
+h2{ 
+
+	color: blue; 
+}
+
+h3{
+	color: green;
+}
